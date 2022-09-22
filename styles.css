@@ -1,4 +1,6 @@
-
+.e1_8 { 
+	overflow:hidden;
+}
 .e1_8 { 
 	background-color:rgba(252.00000017881393, 248.0000004172325, 253.0000001192093, 1);
 	width:1512px;
@@ -9,9 +11,21 @@
 	width:765px;
 	height:502px;
 	position:absolute;
-	left:0px;
+	left: 100px;
 	top:905px;
 	background-image:url(images/image_2.png);
+	border-radius: 20px;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e59_110 { 
+	width:741px;
+	height:503px;
+	position:absolute;
+	left:771px;
+	top:907px;
+	border-radius: 20px;
+	background-image:url(images/image_7.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
