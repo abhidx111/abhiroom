@@ -364,6 +364,7 @@
 	left:509px;
 	top:2407.416015625px;
 	background-image:url(images/image_6.png);
+	border-radius: 20px;
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -401,6 +402,7 @@
 	left:282px;
 	top:2006.416015625px;
 	background-image:url(images/image_5.png);
+	border-radius: 20px;
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -411,6 +413,7 @@
 	left:786px;
 	top:1756.416015625px;
 	background-image:url(images/image_3.png);
+	border-radius: 20px;
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -421,6 +424,7 @@
 	left:280px;
 	top:1739.416015625px;
 	background-image:url(images/image_4.png);
+	border-radius: 20px;
 	background-repeat:no-repeat;
 	background-size:cover;
 }
